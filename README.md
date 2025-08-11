@@ -39,4 +39,4 @@ It Serves as a Frontend Project to practice Web Design and Development Skills.
 Below is a Preview of **Netflix-Clone-Website**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="img/Screenshot.png" alt="Netflix-Clone-Website" width="100%" />
+<img src="netflix-img/images/Screenshot.png" alt="Netflix-Clone-Website" width="100%" />
