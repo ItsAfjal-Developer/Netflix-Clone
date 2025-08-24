@@ -1,5 +1,5 @@
 # **🎬 Netflix-Clone-Website**
-- This is a **Netflix Clone** Website built using HTML, CSS and JavaScript.
+This is a **Netflix Clone** Website built using HTML, CSS and JavaScript.
 The Project replicates the look and feel of the popular Netflix Streaming Platform’s Landing Page,
 Featuring a Responsive Design, Sleek UI and Interactive Elements.
 It Serves as a Frontend Project to practice Web Design and Development Skills.
